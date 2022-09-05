@@ -48,13 +48,13 @@ nav img{
 }
 
 .nav-links ul li a:hover{
-    color: aqua;
+    color: aquamarine;
 }
 
 .nav-btn-1{
 
     color: aquamarine;
-    border: 1px solid rgb(127, 148, 255);
+    border: 1px solid aquamarine;
     border-radius: 5px;
     padding: 8px 15px;
     font-size: 13px;
@@ -77,7 +77,7 @@ nav img{
     color: #fff;
 }
 .icons a:hover{
-    color: aqua;
+    color: aquamarine;
     text-decoration: none;
 }
 
