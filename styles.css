@@ -51,6 +51,16 @@ nav img{
     color: aqua;
 }
 
+.nav-btn-1{
+
+    color: aquamarine;
+    border: 1px solid rgb(127, 148, 255);
+    border-radius: 5px;
+    padding: 8px 15px;
+    font-size: 13px;
+    background: transparent;
+    cursor: pointer;
+}
 
 /* -------------- Footer Section -------------- */
 
@@ -119,6 +129,7 @@ nav img{
     display: inline-block;
     color: aquamarine;
     border: 1px solid aquamarine;
+    border-radius: 5px;
     padding: 12px 25px;
     font-size: 13px;
     background: transparent;
